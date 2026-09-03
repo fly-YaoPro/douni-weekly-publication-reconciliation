@@ -1,0 +1,3 @@
+interface:
+  display_name: "每周发布账实核对"
+  short_description: "核对机构执行表与客户发布表的上周发布差异"
